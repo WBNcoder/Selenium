@@ -1,5 +1,5 @@
 # SeleniumOpenBrowser
-This program enables opening of a browser using Selenium on gradle build but without having to download indivial webdrivers. 
+This program enables opening of a browser using Selenium on gradle build but without having to download individual webdrivers. 
 Dependencies on this project are 
   selenium 4.9.0
   testng 6.14.3
